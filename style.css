@@ -132,7 +132,7 @@ body {
 /* -------------------Media Query Tablet 500 - 900----------------------*/
 @media screen and (max-width: 900px) {
   body {
-    background-size: 115% 51%;
+    background-size: 115% 100%;
     background-repeat: repeat;
     background-position: center top;
   }
@@ -171,7 +171,7 @@ body {
 /* -------------------Media Query Mobile 280 - 500----------------------*/
 @media screen and (min-width: 280px) and (max-width: 500px) {
     body {
-        background-size: 300% 55%;
+        background-size: 300% 100%;
         background-repeat: repeat;
         background-position: center top;
       }
